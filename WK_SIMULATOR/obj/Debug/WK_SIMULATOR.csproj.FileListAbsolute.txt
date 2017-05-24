@@ -1,0 +1,13 @@
+c:\users\daan1\documents\visual studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\bin\Debug\WK_SIMULATOR.exe.config
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\obj\Debug\WK_SIMULATOR.csprojResolveAssemblyReference.cache
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\obj\Debug\WK_SIMULATOR.Properties.Resources.resources
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\obj\Debug\WK_SIMULATOR.Mainview.resources
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\obj\Debug\WK_SIMULATOR.View.PouleView.resources
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\obj\Debug\WK_SIMULATOR.csproj.GenerateResource.Cache
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\bin\Debug\WK_SIMULATOR.exe
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\bin\Debug\WK_SIMULATOR.pdb
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\bin\Debug\Newtonsoft.Json.dll
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\bin\Debug\Newtonsoft.Json.xml
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\obj\Debug\WK_SIMULATOR.exe
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\obj\Debug\WK_SIMULATOR.pdb
+C:\Users\daan1\Documents\Visual Studio 2015\Projects\WK_SIMULATOR\WK_SIMULATOR\bin\Debug\Files\TeamPlayers2.json

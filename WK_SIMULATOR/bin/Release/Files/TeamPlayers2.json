@@ -1,0 +1,393 @@
+[
+	{
+		"Number" : 1,
+		"Name" : "Jasper Cillessen",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 3,
+		"Position" : "K"
+	},
+	{
+		"Number" : 2,
+		"Name" : "Ron Vlaar",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 2,
+		"Position" : "D"
+	},
+	{
+		"Number" : 3,
+		"Name" : "Stefan de Vrij",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 4,
+		"Position" : "D"
+	},
+	{
+		"Number" : 4,
+		"Name" : "Bruno Martins Indi",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 3,
+		"Position" : "D"
+	},
+	{
+		"Number" : 7,
+		"Name" : "Daryl Janmaat",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 2,
+		"Position" : "D"
+	},
+	{
+		"Number" : 5,
+		"Name" : "Daley Blind",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 4,
+		"Position" : "D"
+	},
+	{
+		"Number" : 6,
+		"Name" : "Nigel de Jong",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 3,
+		"Position" : "M"
+	},
+	{
+		"Number" : 8,
+		"Name" : "Jonathan de Guzman",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 2,
+		"Position" : "M"
+	},
+	{
+		"Number" : 10,
+		"Name" : "Wesley Sneijder",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 4,
+		"Position" : "M"
+	},
+	{
+		"Number" : 11,
+		"Name" : "Arjen Robben",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 5,
+		"Position" : "A"
+	},
+	{
+		"Number": 9,
+		"Name": "Robin van Persie",
+		"Teamname" : "Nederland",
+		"Skill_lvl" : 4,
+		"Position" : "A"
+	},
+  // Start Germany here
+    {
+		"Number" : 1,
+		"Name" : "Manuel Neuer",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "K"
+	},
+	{
+		"Number" : 20,
+		"Name" : "Jérôme Boateng",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "D"
+	},
+	{
+		"Number" : 17,
+		"Name" : "Per Mertesacker",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "D"
+	},
+	{
+		"Number" : 5,
+		"Name" : "Mats Hummels",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "D"
+	},
+	{
+		"Number" : 4,
+		"Name" : "Benedikt Höwedes",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "M"
+	},
+	{
+		"Number" : 18,
+		"Name" : "Toni Kroos",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "M"
+	},
+	{
+		"Number" : 19,
+		"Name" : "Mario Götze",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "M"
+	},
+	{
+		"Number" : 16,
+		"Name" : "Philipp Lahm",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "M"
+	},
+	{
+		"Number" : 13,
+		"Name" : "Thomas Müller",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "A"
+	},
+	{
+		"Number" : 10,
+		"Name" : "Lukas Podolski",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "A"
+	},
+	{
+		"Number" : 19,
+		"Name" : "Mario Götze",
+		"Teamname" : "Duitsland",
+		"Skill_lvl" : 4,
+		"Position" : "A"
+	},
+	// Start USA here
+    {
+		"Number" : 1,
+		"Name" : "Tim Howard",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 3,
+		"Position" : "K"
+	},
+	{
+		"Number" : 2,
+		"Name" : "DeAndre Yedlin",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 3,
+		"Position" : "D"
+	},
+	{
+		"Number" : 3,
+		"Name" : "Omar Gonzalez",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 2,
+		"Position" : "D"
+	},
+	{
+		"Number" : 5,
+		"Name" : "Matt Besler",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 4,
+		"Position" : "D"
+	},
+	{
+		"Number" : 4,
+		"Name" : " 	Michael Bradley",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 3,
+		"Position" : "M"
+	},
+	{
+		"Number" : 10,
+		"Name" : "Mikkel Diskerud",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 2,
+		"Position" : "M"
+	},
+	{
+		"Number" : 11,
+		"Name" : " 	Alejandro Bedoya",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 4,
+		"Position" : "M"
+	},
+	{
+		"Number" : 15,
+		"Name" : "Kyle Beckerman",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 3,
+		"Position" : "M"
+	},
+	{
+		"Number" : 8,
+		"Name" : "Clint Dempsey",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 4,
+		"Position" : "A"
+	},
+	{
+		"Number" : 9,
+		"Name" : "Aron Jóhannsson",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 3,
+		"Position" : "A"
+	},
+	{
+		"Number" : 17,
+		"Name" : "Jozy Altidore",
+		"Teamname" : "Verenigde Staten",
+		"Skill_lvl" : 4,
+		"Position" : "A"
+	},
+	// Start Spain here
+    {
+		"Number" : 1,
+		"Name" : "Iker Casillas",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 2,
+		"Position" : "K"
+	},
+	{
+		"Number" : 15,
+		"Name" : "Sergio Ramos",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 3,
+		"Position" : "D"
+	},
+	{
+		"Number" : 3,
+		"Name" : "Gerard Pique",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 2,
+		"Position" : "D"
+	},
+	{
+		"Number" : 2,
+		"Name" : "Raul Albiol",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 3,
+		"Position" : "D"
+	},
+	{
+		"Number" : 14,
+		"Name" : "Xabi Alonso",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 3,
+		"Position" : "M"
+	},
+	{
+		"Number" : 16,
+		"Name" : "Sergio Busquets",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 5,
+		"Position" : "M"
+	},
+	{
+		"Number" : 6,
+		"Name" : " Andres Iniesta",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 3,
+		"Position" : "M"
+	},
+	{
+		"Number" : 20,
+		"Name" : "Santi Cazorla",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 3,
+		"Position" : "M"
+	},
+	{
+		"Number" : 19,
+		"Name" : "Diego Costa",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 3,
+		"Position" : "A"
+	},
+	{
+		"Number" : 9,
+		"Name" : "Fernando Torres",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 3,
+		"Position" : "A"
+	},
+	{
+		"Number" : 13,
+		"Name" : "Juan Mata",
+		"Teamname" : "Spanje",
+		"Skill_lvl" : 4,
+		"Position" : "A"
+	},
+	// Start Brazil here
+    {
+		"Number" : 1,
+		"Name" : "Alisson Becker",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 4,
+		"Position" : "K"
+	},
+	{
+		"Number" : 2,
+		"Name" : "Daniel Alves",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 3,
+		"Position" : "D"
+	},
+	{
+		"Number" : 3,
+		"Name" : "Miranda",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 3,
+		"Position" : "D"
+	},
+	{
+		"Number" : 6,
+		"Name" : "Filipe Luís",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 4,
+		"Position" : "D"
+	},
+	{
+		"Number" : 5,
+		"Name" : "Casemiro",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 2,
+		"Position" : "M"
+	},
+	{
+		"Number" : 11,
+		"Name" : "Coutinho",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 3,
+		"Position" : "M"
+	},
+	{
+		"Number" : 20,
+		"Name" : " Lucas Lima",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 3,
+		"Position" : "M"
+	},
+	{
+		"Number" : 9,
+		"Name" : "Gabriel Jesus",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 2,
+		"Position" : "A"
+	},
+	{
+		"Number" : 10,
+		"Name" : "Neymar",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 4,
+		"Position" : "A"
+	},
+	{
+		"Number" : 17,
+		"Name" : "Taison",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 2,
+		"Position" : "A"
+	},
+	{
+		"Number" : 21,
+		"Name" : "Gabriel",
+		"Teamname" : "Brazil",
+		"Skill_lvl" : 3,
+		"Position" : "A"
+	}
+	
+	
+]
