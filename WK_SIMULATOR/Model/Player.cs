@@ -15,6 +15,5 @@ namespace WK_SIMULATOR.Model
         public int SkillLvl { get; set; }       // Skill level from 1 (low) to 5(high)
         [JsonProperty("Position")]          
         public char Position { get; set; }      // 'K' = keeper 'A' = attacker  'M' = mid  'D' = defender
-        public Team Team { get; set; }          // Team the player is in
     }
 }
